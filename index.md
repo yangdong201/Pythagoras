@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+<!doctype html>
 
-You can use the [editor on GitHub](https://github.com/yangdong201/Pythagoras/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+2020년은 인공지능 시대! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2016년 이세돌과 인공지능 알파고의 대결 이후 사람들이 AI에 대한 관심이 커진 가운데, 최근에는 더욱더 많은 기술의 발전으로 인해 다양한 곳에서 활용되고 있습니다. 
 
-### Markdown
+​
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+초중고에서는 필수적으로 AI에 대해 교육하고 있고, 우리의 주변에서 이미 인공지능 키오스크를 통한 주문 방식이나 무인 계산대가 보편화되고, 무인 편의점, 로봇 카페도 속속 등장하고 있습니다.
 
-```markdown
-Syntax highlighted code block
+​
 
-# Header 1
-## Header 2
-### Header 3
+코로나19로 인해 사람들의 생활형태가 언택트로 완전히 급변하면서, 우리 생활 모든 것에 AI가 적용되고 변화된 세상에 사람들은 점점 적응하고 있습니다.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+공지능까지는 알겠는데... 딥러닝, 머신러닝 도대체 뭐야?
 
-**Bold** and _Italic_ and `Code` text
+먼저 머신러닝을 한마디로 정의한다면 인공지능을 구현하는 구체적 접근 방식이라 할 수 있습니다.
 
-[Link](url) and ![Image](src)
-```
+ 기본적으로 알고리즘을 이용해 데이터를 분석하고, 분석을 통해 학습하며 학습한 내용을 기반으로 판단이나 예측을 합니다. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+따라서 의사결정 기준에 대한 구체적인 지침을 소프트웨어에 직접 코딩해 넣는 것이 아닌, 대량의 데이터와 알고리즘을 통해 컴퓨터 자체에 '학습'시켜 잡업 수행 방법을 익히는 것입니다.
 
-### Jekyll Themes
+​
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangdong201/Pythagoras/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+딥러닝은 머신러닝의 한 분야로 불과 8년 전에 개발된 새로운 패러다임입니다.
 
-### Support or Contact
+machine learning과 deep learning은 컴퓨터가 스스로 학습한다는 점에서는 동일하지만 과정에서는 완전히 차이가 있습니다.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+​
+
+deep learning은 인간 두뇌 신경망 구조를 모방한 인공신경망에 바탕을 둔 기술입니다. 인간의 뇌는 신경세포 집합으로 수 만개로 연결된 신경세포(뉴런)끼리 신호를 주고받으며 사물을 인식하고 정보를 처리합니다. 
+
+즉, 인간의 뇌 구조를 모방한 인공신경망을 이용해 수많은 데이터에서 패턴을 발견하고 구분합니다.
+머신러닝은 데이터 특징에 대한 정보를 사람이 직접 제공해 주지만 딥러닝은 특징을 스스로 파악해 분류합니다.
+
+예를 들어 고양이와 개 사진을 구분해야 할 때 머신러닝은 고양이와 개를 각각 표시해 사진 또는 영상 데이터를 제공하지만, 딥러닝은 전혀 표시가 없는 사진 또는 영상을 분석해 무엇이 고양이 또는 개인지 스스로 판단할 수 있습니다.
+
+
+딥러닝의 적용 분야는?
+
+Deep Learning 기술은 다양한 산업 분야에 적용, 활용됩니다.
+
+특히 이미지 인식 분야에서 두각을 나타냅니다. 페이스북은 2014년부터 이 기술을 적용한 딥페이스 서비스를 선보였습니다. 페이스북 사용자가 과거에 올린 사진과 태그를 학습해 새로운 사진을 올리면 유사한 얼굴을 인식, 이를 알려주는 서비스를 제공합니다. 이 기술을 이용한 이미지 인식률은 97.35%로 사람의 평균 인식률 97.5% 수준까지 발전했습니다.
+
+​
+
+그리고 다양한 서비스 추천 기능에도 사용됩니다. 
+
+인터넷 쇼핑몰 사이트에 이 기술을 적용해 상품 추천 서비스를 만듭니다. 애플뮤직,스포티파이 등 음악 서비스도 마찬가지입니다. 
+
+개인화된 음악 추천 서비스, 라디오 서비스가 이 기술을 활용해 탄생했습니다.
+
+​
+
+금융 분야에서도 아주 유용한 기술입니다. 미국 온라인 결제 서비스 페이팔은 이상 금융거래 탐지시스템(FDS)에 기술을 적용해 온라인 결제 패턴을 분석한 후 범죄 여부까지 분류합니다. 대량의 데이터를 분석해 주가나 기업 부도까지 예측 가능합니다. 
+
+인간 고유의 영역으로 생각되는 창작 분야에도 이 기술이 적용됩니다.
+
+구글 딥드림은 이 기술을 이용해 추상적 그림을 그려내는 생성기 서비스를 만들었습니다.
+
+작곡이나 음악 창작 분야에도 Deep learning 기반 알고리즘을 이용해 코드 진행이나 리듬 패턴 등을 만들 수 있습니다.
+
+​
+
+앞으로 딥러닝은 지금보다 더 많은 분야에서 활용될 것으로 예상됩니다. 
+
+전문가들은 수 년 내 이미지나 숫자가 아닌 음성과 촉감 등 다양한 인식 기술이 발달하면서 인간과 커뮤니케이션 하거나 손님 접대 업무까지 수행하는 로봇이 등장한다고 예상합니다. 
+
+가사, 간병, 감정노동 서비스 분야에서도 이 기술을 적용한 로봇 등장 가능성이 높습니다.
+
+​
+
+2025년 이후에는 대화의 상황 판단과 문화적 맥락 등에 대한 이해가 넓어지면서 통번역 서비스가 지금보다 월등히 좋아질 것으로 예상됩니다. 2030년 이후에는 인간 지식에 대한 이해와 판단 능력이 보다 향상되면서, 교육, 화이트칼라 직업 등 인간 고유 업무 영역까지도 딥러닝과 AI 기술이 확산될 것으로 예상됩니다.
+[출처] 딥러닝, 머신러닝이란? 개념부터 차이점까지 알아보자!|작성자 스마트메이커
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
